@@ -1,80 +1,76 @@
 <div align="center">
-  <img src="./assets/glassmorphism_header_banner_1770720954843.png" width="100%" alt="Header" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); backdrop-filter: blur(10px);"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Andy;Full+Stack+Developer;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/andysama" target="_blank">Andy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
 
-<p align="center">
-  <samp>Passionate Full Stack Developer | Creating Digital Experiences with Code</samp>
-</p>
+<!-- Terminal Intro -->
+<div align="center">
+<pre align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; width: 80%; display: inline-block;">
+<span style="color: #79c0ff;">user@andysama</span>:<span style="color: #d2a8ff;">~</span>$ whoami
+<span style="color: #56d364;">> Andy (Full Stack Developer)</span>
+
+<span style="color: #79c0ff;">user@andysama</span>:<span style="color: #d2a8ff;">~</span>$ cat current_focus.txt
+<span style="color: #56d364;">> ["Vue", "React", "Rust", "Go", "Python", "GenAI"]</span>
+
+<span style="color: #79c0ff;">user@andysama</span>:<span style="color: #d2a8ff;">~</span>$ echo "Let's build something epic."
+<span style="color: #56d364;">> Let's build something epic.</span>
+</pre>
+</div>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/andysama">
-    <img src="https://komarev.com/ghpvc/?username=andysama&style=flat-square&color=blueviolet" alt="Profile views" />
+
+| **Tech Stack** | **Connect** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,go,cpp,c" /></a><br/><br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,express,nestjs,graphql,apollo" /></a><br/><br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,materialui,bootstrap" /></a><br/><br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,k8s,aws,gcp,azure,firebase,mongodb,postgres,redis" /></a> | <a href="https://github.com/andysama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/><a href="https://twitter.com/andysama"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><br/><br/><a href="https://linkedin.com/in/andysama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+
+</div>
+
+<br/>
+
+<!-- Stats Dashboard -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=andysama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andysama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andysama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <h2>🏆 Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=andysama&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
   </a>
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Stats
-
+<!-- 3D Contribution Graph -->
 <div align="center">
-  <a href="https://github.com/andysama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andysama&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andysama&layout=compact&theme=radical&langs_count=8"/>
+  <h2>🧩 Contribution Activity</h2>
+  <a href="https://github.com/andysama/andysama">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="800" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andysama&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"> Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/andysama/andysama/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
-  <!-- Note: This requires a GitHub Action setup to generate the snake.svg. I've added a placeholder link assuming standard setup. -->
-</div>
-
-<br/>
-<div align="center">
-  <a href="https://github.com/andysama">
-    <img src="https://img.shields.io/github/followers/andysama?label=Follow&style=social" />
-  </a>
-  <a href="https://twitter.com/andysama">
-    <img src="https://img.shields.io/twitter/follow/andysama?label=Follow&style=social" />
+  <br/><br/>
+  <!-- Snake Animation -->
+  <a href="https://github.com/andysama/andysama/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/andysama/andysama/blob/output/github-contribution-grid-snake.svg?raw=true" alt="snake contribution graph" />
   </a>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
